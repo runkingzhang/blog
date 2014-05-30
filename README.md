@@ -1,5 +1,5 @@
 #使用Jekyll在Github上面搭建blog
-这个blog只是自己在的一个常识，个人主页github主页请移步
+这个blog只是自己在的一个尝试，个人主页github主页请移步
 [runke github](http://runkingzhang.github.io/)
 
 创建项目
