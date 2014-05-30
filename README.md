@@ -1,6 +1,8 @@
 #使用Jekyll在Github上面搭建blog
+这个blog只是自己在的一个常识，个人主页github主页请移步
+[runke github](http://runkingzhang.github.io/)
 
-##创建项目
+创建项目
 1.在本地创建blog
 2.本地初始化
 git init
@@ -69,5 +71,9 @@ git push blog gh-pages
 8.访问
 [http://runkingzhang.github.com/blog](http://runkingzhang.github.com/blog)
 就可以看到对应blog内容。
+
+9.现在还用的比较常见的方式就是在github上面使用issues来建立对应的blog，这样这边不但
+支持markdown，还可以让别的用户来留言,不需要上传文件，也方便修改。相对来说这种方式是最好的。
+[github issues ](https://github.com/runkingzhang/runkingzhang.github.com/issues?state=open)
 
 
